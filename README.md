@@ -1,20 +1,18 @@
-## Hi there 👋
+## Hi, I'm Muhammad Ahmed
 
+**Full-Stack Engineer | Laravel | PHP | MySQL | React**
 
-**macyy17/macyy17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack engineer with 6 years of experience designing, building and maintaining production software. I work across the whole stack, from database design and APIs to the interface, and I take projects from requirements through to deployment and long-term maintenance. I've delivered software for clients in Qatar, the UAE and Pakistan, and I've led teams of developers, designers and marketers.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...## Hi, I'm Muhammad Ahmed
+## What I Build
 
-**Full-Stack Engineer | Laravel | PHP | MySQL**
-
-I build web applications end to end: database design, REST APIs, backend logic and React front ends. Over 6 years I've shipped SaaS products, CMS platforms, POS systems and internal business tools for clients in Qatar, the UAE and Pakistan.
-
-I also integrate AI and automation services into existing systems to cut out manual work.
+- **Business systems:** ERP and CRM platforms, POS and operations software, inventory, invoicing and internal tools
+- **Web applications and SaaS:** multi-user products with authentication, roles, admin dashboards and reporting
+- **Websites and CMS platforms:** custom-built and WordPress sites, landing pages and content management systems
+- **APIs and integrations:** REST APIs, third-party service integrations and AI and automation workflows
+- **Data and reporting:** relational schemas, optimised queries, analytics dashboards and data migrations
 
 ---
 
@@ -26,54 +24,38 @@ I also integrate AI and automation services into existing systems to cut out man
 
 **Frontend**
 
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,sass,jquery,vite&perline=10)
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,sass,jquery,vite&perline=10)
 
-**Backend**
+**Backend, APIs and CMS**
 
-![Backend](https://skillicons.dev/icons?i=laravel,nodejs,express&perline=10)
+![Backend](https://skillicons.dev/icons?i=laravel,nodejs,express,graphql,wordpress&perline=10)
 
 **Databases**
 
-![Databases](https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb,redis,prisma,firebase,supabase&perline=10)
+![Databases](https://skillicons.dev/icons?i=mysql,mariadb,sqlite,postgres,mongodb,redis,prisma,firebase,supabase&perline=10)
 
 **Servers and DevOps**
 
-![DevOps](https://skillicons.dev/icons?i=linux,ubuntu,nginx,apache,docker,aws,cloudflare,githubactions&perline=10)
+![DevOps](https://skillicons.dev/icons?i=linux,ubuntu,nginx,apache,docker,aws,cloudflare,digitalocean,vercel,githubactions&perline=10)
 
-**Tools**
+**Tools and Testing**
 
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm&perline=10)
+![Tools](https://skillicons.dev/icons?i=git,github,gitlab,vscode,phpstorm,postman,swagger,jest,figma,jira,notion&perline=10)
 
 ---
 
-## What I Do
+## Engineering Focus
 
-**Backend**
-- REST API design, versioning and third-party integration
-- Authentication and authorisation (sessions, JWT, role-based access)
-- Server-side application architecture in Laravel and Node.js
-- AI and automation service integration
-
-**Databases**
-- Relational schema design and data modelling
-- Query optimisation and indexing
-- Reporting and analytics queries
-- Data migration
-- Working with both SQL (MySQL, PostgreSQL, SQLite) and NoSQL (MongoDB, Firebase)
-
-**Frontend**
-- Reusable React component architecture
-- State management
-- Responsive, cross-browser UI with Tailwind and Bootstrap
-
-**Engineering Practice**
-- Full-stack application architecture
-- Modular, scalable codebases
+- Full-stack application architecture and modular, scalable codebases
+- REST API design, versioning and documentation
+- Authentication and authorisation: sessions, JWT and role-based access control
+- Relational database design, indexing and query optimisation
+- State management and reusable component design
 - Performance optimisation and caching
 - Testing, debugging and code review
 - Git workflows and collaborative development
 - Linux server setup, deployment and maintenance
-- Technical documentation
+- Requirements gathering, technical planning and client communication
 
 ---
 
@@ -82,4 +64,3 @@ I also integrate AI and automation services into existing systems to cut out man
 - Website: [themacstack.com](https://themacstack.com)
 - LinkedIn: [linkedin.com/in/macyy17](https://linkedin.com/in/macyy17)
 - Email: ahmad.macyy@gmail.com
-
