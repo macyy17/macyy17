@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **macyy17/macyy17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -82,8 +82,4 @@ I also integrate AI and automation services into existing systems to cut out man
 - Website: [themacstack.com](https://themacstack.com)
 - LinkedIn: [linkedin.com/in/macyy17](https://linkedin.com/in/macyy17)
 - Email: ahmad.macyy@gmail.com
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
